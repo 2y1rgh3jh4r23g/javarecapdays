@@ -1,0 +1,52 @@
+/*
+ * Sheridan themed text colors
+ */
+
+.text-navy {
+    color: #003767;
+}
+
+.text-blue {
+    color: #00b2ce;
+}
+
+.text-orange {
+    color: #ff5000;
+}
+
+.text-gray {
+    color: #8e9aa2;
+}
+
+/*
+ * Sheridan themed background colors
+ */
+
+.bg-navy {
+    background-color: #003767;
+}
+
+.bg-blue {
+    background-color: #00b2ce;
+}
+
+.bg-orange {
+    background-color: #ff5000;
+}
+
+/*
+ * Specific styles
+ */
+
+.text-white {
+    color: #fff;
+}
+
+body {
+    font-size: 1.2em;
+    font-family: sans-serif;
+}
+
+.row {
+    margin: 15px;
+}
